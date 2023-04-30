@@ -1,6 +1,6 @@
-# NextWave
+# NextWaveUI
 
-NextWave is an open source component library built with Next.js and React, designed to help developers build modern, cutting-edge user interfaces.
+NextFlowUI is an open source component library built with Next.js and React, designed to help developers build modern, cutting-edge user interfaces.
 
 ## Features
 
@@ -11,16 +11,16 @@ NextWave is an open source component library built with Next.js and React, desig
 
 ## Installation
 
-To install NextWave, run the following command:
+To install NextWaveUI, run the following command:
 
-`npm install nextwave`
+`npm install nextwaveui`
 
 ## Usage
 
-To use NextWave in your project, import the desired components as needed. For example:
+To use NextWaveUI in your project, import the desired components as needed. For example:
 
 ```js
-import { Button, Card } from 'nextwave';
+import { Button, Card } from 'nextwaveui';
 
 function MyComponent() {
   return (
@@ -78,9 +78,9 @@ By contributing to this project, you agree to abide by this Code of Conduct.
 
 ## Social Links
 
-- [GitHub](https://github.com/your-username/nextwave)
+- [GitHub](https://github.com/palentier/nextwaveui)
 - [Twitter](https://twitter.com/your-username)
 
 ## License
 
-NextWave is licensed under the MIT License.
+NextWaveUI is licensed under the MIT License.
