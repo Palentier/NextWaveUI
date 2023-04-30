@@ -70,8 +70,6 @@ As contributors and maintainers of this project, we pledge to create and maintai
 
 We do not tolerate harassment of any kind, including but not limited to verbal attacks, sexual advances, and inappropriate physical contact. We also do not tolerate any behavior that creates an unsafe or uncomfortable environment for others.
 
-If you witness or experience any harassment or misconduct, please contact the project maintainers immediately at [maintainer-email-address].
-
 We reserve the right to remove any contributor or participant who does not abide by this Code of Conduct or who creates an unsafe or uncomfortable environment for others.
 
 By contributing to this project, you agree to abide by this Code of Conduct.
